@@ -18,8 +18,8 @@ import * as Animatable from 'react-native-animatable';
 
 const { width, height } = Dimensions.get('window');
 
-const VALID_EMAIL = 'kiki@gmail.com';
-const VALID_PASSWORD = 'kikipoiu';
+const VALID_EMAIL = 'adit@gmail.com';
+const VALID_PASSWORD = '1';
 
 const Login = ({ navigation }) => {
   const [email, setEmail] = useState('');
